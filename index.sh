@@ -9,6 +9,9 @@ mv -i .zshrc .zshenv ~/
 # Install vim
 sudo apt-get install -y vim vim-gnome
 mv -i .vim .vimrc ~/
+cd ~/.vim/bundle
+rm -rf Vundle.vim
+git clone https://github.com/gmarik/Vundle.vim
 
 # Setup bashrc
 mv -i .bashrc ~/.bashrc
