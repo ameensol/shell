@@ -1,9 +1,6 @@
 # Start with an update
 sudo apt-get update
 
-# Install git
-sudo apt-get install git
-
 # Install zsh and oh-my-zsh
 sudo apt-get install -y zsh
 wget --no-check-certificate http://install.ohmyz.sh -O - | sh
