@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/ameen/Desktop/filter/hivemind/app/controllers/users'
+let g:netrw_dirhist_2='/home/ameen/Desktop/filter/hivemind/app/controllers'
+let g:netrw_dirhist_3='/home/ameen/Desktop/filter/hivemind/public/modules/lists/controllers'
+let g:netrw_dirhist_4='/home/ameen/Desktop/filter/hivemind/public/modules/sections/services'
+let g:netrw_dirhist_5='/home/ameen/npm/lib/node_modules/generator-napejs'
+let g:netrw_dirhist_6='/home/ameen/npm/lib/node_modules/generator-napejs/crud-module'
+let g:netrw_dirhist_7='/home/ameen/npm/lib/node_modules/generator-napejs/crud-module/templates'
+let g:netrw_dirhist_8='/home/ameen/npm/lib/node_modules/generator-napejs/crud-module/templates/express-module'
+let g:netrw_dirhist_9='/home/ameen/Desktop/filter/hivemind/app/tests'

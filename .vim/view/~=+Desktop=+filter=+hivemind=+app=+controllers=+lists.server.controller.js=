@@ -1,0 +1,76 @@
+let s:so_save = &so | let s:siso_save = &siso | set so=0 siso=0
+argglobal
+setlocal fdm=syntax
+setlocal fde=0
+setlocal fmr={{{,}}}
+setlocal fdi=#
+setlocal fdl=0
+setlocal fml=1
+setlocal fdn=2
+setlocal fen
+3
+normal! zo
+19
+normal! zo
+22
+normal! zo
+29
+normal! zo
+38
+normal! zo
+41
+normal! zo
+45
+normal! zo
+48
+normal! zo
+56
+normal! zo
+65
+normal! zo
+68
+normal! zo
+71
+normal! zo
+80
+normal! zo
+83
+normal! zo
+87
+normal! zo
+105
+normal! zo
+108
+normal! zo
+109
+normal! zo
+119
+normal! zo
+125
+normal! zo
+128
+normal! zo
+129
+normal! zo
+135
+normal! zo
+138
+normal! zo
+140
+normal! zo
+147
+normal! zo
+161
+normal! zo
+188
+normal! zo
+199
+normal! zo
+210
+normal! zo
+214
+normal! zo
+lcd ~/Desktop/filter/hivemind
+let &so = s:so_save | let &siso = s:siso_save
+doautoall SessionLoadPost
+" vim: set ft=vim :
